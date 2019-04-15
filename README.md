@@ -1,6 +1,9 @@
-# Extended Kalman Filter Project Starter Code
+# Extended Kalman Filter (EKF) result:
 
-![testing](EKF_Perf_Image.png)
+![EKF_Performance](EKF_Perf_Image.png)
+
+
+# Extended Kalman Filter Project Starter Code
 
 
 Self-Driving Car Engineer Nanodegree Program
